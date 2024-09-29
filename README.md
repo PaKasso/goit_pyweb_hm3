@@ -1,0 +1,2 @@
+# goit_pyweb_hm3
+ sorter_factoruze_synh_vs_paral
